@@ -1,0 +1,7 @@
+flask
+flask-cors
+transformers
+torch
+easyocr
+PyMuPDF=1.26.0
+python-docx=1.1.2

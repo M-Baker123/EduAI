@@ -1,0 +1,10 @@
+requirements/dependencies:
+In addition to the requirements.txt libraries we need the models themselves. The OCR models are EasyOCR for the AI-based engine and Tesseract for the rule-based engine. EasyOCR will download automatically on the first run, but Tesseract ,unfortunately, isn't portable so you will have to download it from https://sourceforge.net/projects/tesseract-ocr.mirror/ and then point the program to the tesseract.exe
+As for AI-based translation, summarization, and quizzes, you will have to download them from hugging face (warning total is around 5GB)
+https://huggingface.co/Helsinki-NLP/opus-mt-fr-en/tree/main 
+https://huggingface.co/lxyuan/distilbart-finetuned-summarization/tree/main
+https://huggingface.co/potsawee/t5-large-generation-race-QuestionAnswer/tree/main
+https://huggingface.co/deepset/roberta-base-squad2/tree/main
+
+for the frontend the only requirement is node.js
+https://nodejs.org/en/download/current

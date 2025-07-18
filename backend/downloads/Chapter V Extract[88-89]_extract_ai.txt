@@ -1,0 +1,12 @@
+=== Page 1 ===
+
+Chapter V: DSL Technology Exercise The technical characteristics of a DSL link are: Symmetric access Modulation: DMT Modulation for each channel: QAM128 Channel width 4.3125 kHz Sampling frequency: 35.328 MHz Symbol rate: 4000 symbolslslchannel Baseband analog voice Five guard bands between analog voice and uplink No guard bands between uplink and downlink FDM technology How many channels has this link? Find the total number of samples corresponding to the cyclic prefix and synchronization of this link. Calculate the bitrates of this link Find the frequency separating the uplink and downlink channels. Author: Dr. Ahmad Raad ULFG Bth Semester, Telecom
+
+========================================
+
+=== Page 2 ===
+
+Chapter V: DSL Technology Exercise Il The basic frames of a DSL link; containing each 32 payload bytes; are transmitted in blocks of 4 multiframes, each multiframe is formed by 12 basic frames. These frames carry payload information and overheads for framing; control and management functions. a)   Knowing that the overall duration of each block is 6 ms, calculate the useful throughput of this link. b)   If 4-PAM Modulation is used in this link, calculate the number of total overhead bytes per block knowing that the symbol rate is 1160 ksymbolsls Find the bit rate corresponding to this overhead c) What is the type of this DSL link? d) Does this DSL Link allow to make telephone calls? Explain Author: Dr. Ahmad Raad ULFG Bth Semester, Telecom
+
+========================================
+
